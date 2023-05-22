@@ -1,0 +1,1 @@
+# 001-qr-code-component
