@@ -1,0 +1,55 @@
+body {
+    display: grid;
+    place-items: center;
+    background-color: hsl(207, 94%, 87%);
+    height: 96vh;
+}
+
+.attribution {
+    color:hsl(0, 0%, 16%);
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    width: 216px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.parent {
+    display: grid;
+    place-items: center;
+    border-radius: 16px;
+    padding-top: 14px;
+    padding-bottom: 32px;
+    width: 260px;
+    height: 360px;
+    background-color: hsl(0, 0%, 98%);
+}
+
+img {
+    width: 232px;
+    height: 232px;
+    border-radius: 4%;
+}
+
+h1 {
+    color:hsl(0, 0%, 15%);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    width: 216px;
+    text-align: center;
+}
+
+h4 {
+    margin-top: auto;
+    color:hsl(0, 0%, 51%);
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    width: 216px;
+    text-align: center;
+}
